@@ -12,7 +12,7 @@
   "author": "Richard Abishai",
   "license": "MIT",
   "dependencies": {
-    "@langchain/community": "^0.2.31",
+    "@langchain/community": "^0.3.24",
     "@langchain/core": "^0.2.31",
     "@langchain/langgraph": "^0.2.1",
     "@langchain/openai": "^0.2.8",
